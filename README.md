@@ -90,8 +90,9 @@ python3 auto-nmap.py
     👋 Exiting... Have a secure day!
     
 ##⚠️ Important Notes
+
 📌 Backup or clear the output file (nmap_scan_results.txt) to avoid confusion, as previous results will remain in the file.
 
 ##🤝 Contributions & Issues
-💡 Found a bug? Have a feature request? Open an issue here.
+💡 Found a bug? Have a feature request? Open an issue.
 👨‍💻 Contributions are welcome! Feel free to submit a pull request.
