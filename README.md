@@ -65,4 +65,27 @@
 ```bash
 git clone https://github.com/Sai-Tej86/Auto-Nmap.git
 cd Auto-Nmap
+```
+## 📌 Usage
+```bash
+python3 auto-nmap.py
+```
+1️⃣ Select a target input method:
+
+1 ➜ Single IP/Host
+
+2 ➜ Target File (Enter "targets.txt" containing multiple hosts/IPs)
+
+2️⃣ Choose a vulnerability to test – Just enter the number and hit enter.
+
+3️⃣ After the scan completes, you will be prompted with:
+
+    What would you like to do next?
+    1. Continue  - To test for another vulnerability
+    2. Exit      - To Exit
+
+4️⃣ Once you exit, the final results will be saved in:
+
+    📝 Final results saved in 'nmap_scan_results.txt'
+    👋 Exiting... Have a secure day!
 
