@@ -1,11 +1,5 @@
 # 🚀 Auto-Nmap – An Nmap Script Automation Tool  
 
-![GitHub stars](https://img.shields.io/github/stars/Sai-Tej86/Auto-Nmap?style=flat-square)  
-![GitHub forks](https://img.shields.io/github/forks/Sai-Tej86/Auto-Nmap?style=flat-square)  
-![GitHub license](https://img.shields.io/github/license/Sai-Tej86/Auto-Nmap?style=flat-square)  
-![GitHub issues](https://img.shields.io/github/issues/Sai-Tej86/Auto-Nmap?style=flat-square)  
-
----
 
 ## 🎯 **About Auto-Nmap**
 🔹 Automate multiple **Nmap scripts** effortlessly.  
