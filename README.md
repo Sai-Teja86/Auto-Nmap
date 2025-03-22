@@ -67,9 +67,9 @@ python3 auto-nmap.py
 ```
 1️⃣ Select a target input method:
                 
-        Select a target input method:
-        1. Single Ip/Host  - Enter Single ip/host
-        2. Target File      - Enter "targets.txt" containing multiple hosts/IPs
+    Select a target input method:
+    1. Single Ip/Host  - Enter Single ip/host
+    2. Target File      - Enter "targets.txt" containing multiple hosts/IPs
 
 2️⃣ Choose a vulnerability to test – Just enter the number and hit enter.
 
