@@ -1,4 +1,4 @@
-# 🚀 Auto-Nmap – An Nmap Script Automation Tool  
+# 🚀 Sai-Tej86/Auto-Nmap – An Nmap Script Automation Tool  
 
 
 ## 🎯 **About Auto-Nmap**
