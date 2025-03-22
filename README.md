@@ -60,6 +60,7 @@
 git clone https://github.com/Sai-Tej86/Auto-Nmap.git
 cd Auto-Nmap
 ```
+---
 ## 📌 Usage
 ```bash
 python3 auto-nmap.py
@@ -82,11 +83,19 @@ python3 auto-nmap.py
 
     📝 Final results saved in 'nmap_scan_results.txt'
     👋 Exiting... Have a secure day!
-    
+---
 ## ⚠️ Important Notes
 
 📌 Backup or clear the output file (nmap_scan_results.txt) to avoid confusion, as previous results will remain in the file.
-
+---
 ## 🤝 Contributions & Issues
 💡 Found a bug? Have a feature request? Open an issue.
 👨‍💻 Contributions are welcome! Feel free to submit a pull request.
+---
+## 📸 Screen Shots
+
+![image](https://github.com/user-attachments/assets/5a629e37-a3af-4647-bbb2-5d5fc1fae25b)
+![image](https://github.com/user-attachments/assets/5347d71d-63c1-4521-adaf-5604cd9242fe)
+![image](https://github.com/user-attachments/assets/b8a3576d-0f77-48f1-ad3b-40821f883274)
+
+---
