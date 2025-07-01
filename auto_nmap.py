@@ -60,9 +60,17 @@ scan_options = {
 # Function to display the vulnerability list
 def display_menu():
     print(Fore.YELLOW + "\nHere’s a list of vulnerabilities you can find using Nmap:\n")
-    for key, (desc, _) in scan_options.items():
-        print(Fore.GREEN + f"{key}. {desc}")
-    print(Fore.RED + "0. Exit")
+    items = list(scan_options.items())
+    mid = (len(items) + 1) // 2  # Split point
+    left = items[:mid]
+    right = items[mid:]
+    for i in range(mid):
+        left_item = left[i]
+        right_item = right[i] if i < len(right) else ("", ("", ""))
+        left_text = f"{left_item[0]}. {left_item[1][0]}"
+        right_text = f"{right_item[0]}. {right_item[1][0]}" if right_item[0] else ""
+        print(Fore.GREEN + f"{left_text:<50} {right_text}")
+    print(Fore.RED + "\n0. Exit")
 
 # Function to run the selected scan
 def run_scan(scan_choice, target_file, output_file):
